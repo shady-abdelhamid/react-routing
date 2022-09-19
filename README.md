@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Router DOM template
+this is a template for using react route DOM v6. please, follow this official [tutorial](https://github.com/remix-run/react-router/blob/main/docs/start/tutorial.md) for extra information.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
